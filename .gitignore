@@ -1,0 +1,19 @@
+# KallistiOS build intermediates
+*.o
+*.img
+*.elf
+*.bin
+*.cdi
+*.mds
+*.map
+*.d
+
+# Generated disc boot files
+disc/1ST_READ.BIN
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
